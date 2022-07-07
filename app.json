@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PokeRPG",
+    "slug": "PokeRPG",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFDA03"
+      },
+      "package": "com.pokeRPG"
+    }
+  }
+}
